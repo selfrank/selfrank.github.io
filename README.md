@@ -13,4 +13,5 @@ It inlcudes the following source code:
 Images Credit to:
 1. Keyboard.jpg - Close-Up Photo of Gaming Keyboard, John Petalcurin
 2. neon-blur-1-1172436- hotblack
+3. elegant white background with shiny lines - Image by starline on Freepik
 
