@@ -1,7 +1,7 @@
 new hoverEffect({
     parent: document.querySelector('.img'),
-    image1: './footer_bg_08.png',
-    image2: './footer_bg_09.png',
+    image1: './neon-blur-1-1172436.jpg',
+    image2: './neon-blur-1-1172436.jpg',
     displacementImage:'./displacementImage2.jpg'
 })  
 
